@@ -1,7 +1,7 @@
 {
     "slider-layout#home":{
         "props":{
-            "autoplay":"7000"
+            "autoplay":"7000ms"
         },
         "children":[
             "image#brand1",
