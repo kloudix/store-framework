@@ -3,7 +3,7 @@
     "slider-layout#home":{
         "props":{
             "autoplay":{
-             "timeout":"7000"  
+             "timeout":"7000ms"  
             }
     },
         "children":[
