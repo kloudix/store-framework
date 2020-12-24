@@ -1,5 +1,8 @@
 {
     "slider-layout#home":{
+        "props":{
+            "autoplay":"7000"
+        },
         "children":[
             "image#brand1",
             "image#brand2",
